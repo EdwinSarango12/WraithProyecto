@@ -1,0 +1,31 @@
+# flyctl launch added from ProyectoU1\Backend\.gitignore
+ProyectoU1\Backend\**\node_modules
+
+ProyectoU1\Backend\**\.env
+
+# flyctl launch added from ProyectoU1\Frontend\.gitignore
+# Logs
+ProyectoU1\Frontend\**\logs
+ProyectoU1\Frontend\**\*.log
+ProyectoU1\Frontend\**\npm-debug.log*
+ProyectoU1\Frontend\**\yarn-debug.log*
+ProyectoU1\Frontend\**\yarn-error.log*
+ProyectoU1\Frontend\**\pnpm-debug.log*
+ProyectoU1\Frontend\**\lerna-debug.log*
+
+ProyectoU1\Frontend\**\node_modules
+ProyectoU1\Frontend\**\dist
+ProyectoU1\Frontend\**\dist-ssr
+ProyectoU1\Frontend\**\*.local
+
+# Editor directories and files
+ProyectoU1\Frontend\**\.vscode\*
+!ProyectoU1\Frontend\**\.vscode\extensions.json
+ProyectoU1\Frontend\**\.idea
+ProyectoU1\Frontend\**\.DS_Store
+ProyectoU1\Frontend\**\*.suo
+ProyectoU1\Frontend\**\*.ntvs*
+ProyectoU1\Frontend\**\*.njsproj
+ProyectoU1\Frontend\**\*.sln
+ProyectoU1\Frontend\**\*.sw?
+fly.toml
